@@ -22,5 +22,5 @@ The approach avoids sending actual patient data, instead relying on federated an
    cd Federated-Analytics
 
    pip install -r requirements.txt
-python run_summary.py
+   python run_summary.py
 
